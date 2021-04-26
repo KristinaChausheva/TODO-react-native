@@ -1,0 +1,12 @@
+{
+  "name": "rn-basics",
+  "displayName": "rn-basics",
+  "expo": {
+    "name": "rn-basics",
+    "slug": "rn-basics",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
